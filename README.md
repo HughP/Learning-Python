@@ -5,7 +5,7 @@ This is a repository of notes I have taken while learning Python
 ##Helpful web tutorials
 
 * How to think like a computer scientist http://interactivepython.org/runestone/static/thinkcspy/toc.html
-* http://introtopython.org/visualization_earthquakes.html
+* http://introtopython.org/visualization_earthquakes.html - this really helped me get my head around reading CSV files and plotting data with matplotlib
 
 ##Intersting tutorials to look at
 * http://interactivepython.org/courselib/static/diveintopython3/index.html
@@ -14,6 +14,7 @@ This is a repository of notes I have taken while learning Python
 * http://www.mindview.net/Books/Python/ThinkingInPython.html
 * http://programminghistorian.org/lessons/
 * https://github.com/ehmatthes/intro_programming
+* http://all-geo.org/volcan01010/2012/11/change-coordinates-with-pyproj/
 
 
 ##Not helpful tutorials
