@@ -13,6 +13,7 @@ This is a repository of notes I have taken while learning Python
 * It seems that matplot uses html color names but I can never rememeber them as I always want to use hex digits: http://www.w3schools.com/html/html_colornames.asp
 
 ##Intersting tutorials to look at
+* Pandas - http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/intro-to-pandas.ipynb
 * http://interactivepython.org/courselib/static/diveintopython3/index.html
 * http://www.codecademy.com/en/tracks/python
 * http://learnpythonthehardway.org/book/
