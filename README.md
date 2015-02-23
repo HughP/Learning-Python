@@ -15,7 +15,7 @@ This is a repository of notes I have taken while learning Python
 ##Intersting tutorials to look at
 * Pandas - http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/intro-to-pandas.ipynb
 * http://interactivepython.org/courselib/static/diveintopython3/index.html
-* http://www.codecademy.com/en/tracks/python
+* basic syntax - http://www.codecademy.com/en/tracks/python
 * http://learnpythonthehardway.org/book/
 * http://www.mindview.net/Books/Python/ThinkingInPython.html
 * http://programminghistorian.org/lessons/
