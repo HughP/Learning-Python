@@ -1,9 +1,11 @@
 # Learning-Python
 This is a repository of notes I have taken while learning Python
 
+#Notes about things to learn
+* How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
+
 
 ##Helpful web tutorials
-
 * How to think like a computer scientist http://interactivepython.org/runestone/static/thinkcspy/toc.html - This has been great to get my head around data management. I started off with code academy, but the suff there was just mundane. 
 * http://introtopython.org/visualization_earthquakes.html - this really helped me get my head around reading CSV files and plotting data with matplotlib
 * http://matplotlib.org/api/markers_api.html#matplotlib.markers.MarkerStyle 
