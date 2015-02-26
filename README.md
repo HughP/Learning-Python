@@ -23,6 +23,8 @@ This is a repository of notes I have taken while learning Python
 * http://all-geo.org/volcan01010/2012/11/change-coordinates-with-pyproj/
 * 3D plotting: https://www.wakari.io/nb/urls///wakari.io/static/notebooks/Lecture_4_Matplotlib.ipynb?has_login=False
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
+* https://wakari.io/gallery Other iPython notebooks.
+* Other python resources: http://continuum.io/
 
 
 ##Not helpful tutorials
