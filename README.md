@@ -25,6 +25,7 @@ This is a repository of notes I have taken while learning Python
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
+* https://www.coursera.org/course/pythonlearn
 
 
 ##Not helpful tutorials
