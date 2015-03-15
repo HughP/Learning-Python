@@ -34,6 +34,7 @@ This is a repository of notes I have taken while learning Python
 * https://bugs.python.org/issue1571184
 * Pythonn 3 Character Encoding: https://docs.python.org/3/library/unicodedata.html#module-unicodedata
 * Python 2.7: https://docs.python.org/3/whatsnew/2.7.html
+* Consistent character width: http://bugs.python.org/issue12568
 
 ###Recording Keys
 * Key Actions/Keystroke events: http://www.java2s.com/Code/Python/Event/Key-Action.htm
