@@ -59,6 +59,7 @@ http://www.continuum.io/blog/conda
 * Media Goblin: http://mediagoblin.org/
 * https://pypi.python.org/pypi/FoLiA-tools
 * NLTK http://www.nltk.org/
+* OCR https://github.com/tmbdev/ocropy
 
 ##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
