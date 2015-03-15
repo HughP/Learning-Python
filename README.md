@@ -35,6 +35,8 @@ This is a repository of notes I have taken while learning Python
 * Pythonn 3 Character Encoding: https://docs.python.org/3/library/unicodedata.html#module-unicodedata
 * Python 2.7: https://docs.python.org/3/whatsnew/2.7.html
 * Consistent character width: http://bugs.python.org/issue12568
+* Python returning the wrong length of string when using special characters http://stackoverflow.com/questions/2247205/python-returning-the-wrong-length-of-string-when-using-special-characters
+* Unicode::GCString python https://www.google.com/search?q=Unicode%3A%3AGCString+python&oq=Unicode%3A%3AGCString+python&aqs=chrome..69i57j69i58.4901j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
 
 ###Recording Keys
 * Key Actions/Keystroke events: http://www.java2s.com/Code/Python/Event/Key-Action.htm
@@ -65,3 +67,4 @@ http://www.continuum.io/blog/conda
 ##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
 * http://www.regexr.com/
+* Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
