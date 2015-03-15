@@ -40,6 +40,11 @@ http://www.continuum.io/blog/conda
 ##Python and Perl
 * http://www.fastcolabs.com/3026446/the-fall-of-perl-the-webs-most-promising-language
 
-## RegEx
+##Python Modules
+* http://kartograph.org/showcase/animated-symbols/
+* Scrappy: http://doc.scrapy.org/en/0.24/intro/tutorial.html
+* Media Goblin: http://mediagoblin.org/
+
+##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
 * http://www.regexr.com/
