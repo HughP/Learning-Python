@@ -26,6 +26,7 @@ This is a repository of notes I have taken while learning Python
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
 * https://www.coursera.org/course/pythonlearn
+* http://www.python-course.eu/input.php
 * Character encoding: http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb
 
 ##Not helpful tutorials
