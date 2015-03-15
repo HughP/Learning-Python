@@ -51,11 +51,14 @@ http://www.continuum.io/blog/conda
 
 ##Python and Perl
 * http://www.fastcolabs.com/3026446/the-fall-of-perl-the-webs-most-promising-language
+* http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/canadian_journal_of_linguistics/v051/51.1cobb.pdf
 
 ##Python Modules
 * http://kartograph.org/showcase/animated-symbols/
 * Scrappy: http://doc.scrapy.org/en/0.24/intro/tutorial.html
 * Media Goblin: http://mediagoblin.org/
+* https://pypi.python.org/pypi/FoLiA-tools
+* NLTK http://www.nltk.org/
 
 ##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
