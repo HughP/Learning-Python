@@ -27,11 +27,22 @@ This is a repository of notes I have taken while learning Python
 * Other python resources: http://continuum.io/
 * https://www.coursera.org/course/pythonlearn
 * http://www.python-course.eu/input.php
+
+###Character Encoding
 * Character encoding: http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb
+* https://bugs.python.org/issue1571184
+* Pythonn 3 Character Encoding: https://docs.python.org/3/library/unicodedata.html#module-unicodedata
+* Python 2.7: https://docs.python.org/3/whatsnew/2.7.html
+
+###Recording Keys
+* Key Actions/Keystroke events: http://www.java2s.com/Code/Python/Event/Key-Action.htm
+* http://www.java2s.com/Code/Python/Event/KeyactionShiftPressedandReleased.htm
+* 
+
 
 ##Not helpful tutorials
 *
-## Little things I have done
+##Little things I have done
 * http://pastebin.com/kWyDaTeA
 
 #Enviroments:
