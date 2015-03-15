@@ -27,6 +27,7 @@ This is a repository of notes I have taken while learning Python
 * Other python resources: http://continuum.io/
 * https://www.coursera.org/course/pythonlearn
 * http://www.python-course.eu/input.php
+* Working with LEAP Motion controler: https://developer.leapmotion.com/documentation/python/devguide/Intro_Skeleton_API.html
 
 ###Character Encoding
 * Character encoding: http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb
