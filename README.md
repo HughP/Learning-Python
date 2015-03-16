@@ -30,6 +30,7 @@ _This is a repository of notes I have taken while learning Python._
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
+* An example of Ethnologue data https://github.com/metasyn/langstats
 
 ####Write to a file.
 * How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
