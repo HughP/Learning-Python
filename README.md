@@ -93,9 +93,10 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * Kartograph: http://kartograph.org/showcase/animated-symbols/
 * Scrappy: http://doc.scrapy.org/en/0.24/intro/tutorial.html
 * Media Goblin: http://mediagoblin.org/
-* https://pypi.python.org/pypi/FoLiA-tools
-* NLTK: http://www.nltk.org/
 * OCR: https://github.com/tmbdev/ocropy
+
+###Lingusitics and Language Data Specific
+* NLTK: http://www.nltk.org/
 * Babel: http://babel.pocoo.org/
 * poio: http://media.cidles.eu/poio/
 * FoLiA: https://pypi.python.org/pypi/FoLiA-tools
