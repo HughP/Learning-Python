@@ -30,6 +30,7 @@ _This is a repository of notes I have taken while learning Python._
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
+
 ####Write to a file.
 * How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
 
@@ -73,7 +74,7 @@ _This is a repository of notes I have taken while learning Python._
 ##Little things I have done
 * http://pastebin.com/kWyDaTeA
 
-#Enviroments:
+#Python Enviroments:
 http://www.continuum.io/blog/conda
 
 ##Python and Perl
@@ -81,6 +82,7 @@ http://www.continuum.io/blog/conda
 * http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/canadian_journal_of_linguistics/v051/51.1cobb.pdf
 
 ###Just Perl
+_I know this is a Python repo, but I have these links from learning about Perl, so I thought I would add them._
 * http://stackoverflow.com/questions/16678272/perl-script-to-count-words-lines
 * http://perlbrew.pl/Perlbrew-and-Friends.html
 * http://learn.perl.org/tutorials/
