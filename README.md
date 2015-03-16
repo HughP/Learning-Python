@@ -1,9 +1,5 @@
-# Learning-Python
-This is a repository of notes I have taken while learning Python
-
-#Notes about things to learn
-* How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
-
+#Notes about things I learn while trying to do tasks in Python
+_This is a repository of notes I have taken while learning Python._
 
 ##Helpful web tutorials
 * How to think like a computer scientist http://interactivepython.org/runestone/static/thinkcspy/toc.html - This has been great to get my head around data management. I started off with code academy, but the suff there was just mundane. 
@@ -34,8 +30,13 @@ This is a repository of notes I have taken while learning Python
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
+####Write to a file.
+* How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
+
+####LEAP Motion API
 * Working with LEAP Motion controler: https://developer.leapmotion.com/documentation/python/devguide/Intro_Skeleton_API.html
 
+##Issues to deal with in Python
 ###Character Encoding
 * Character encoding: http://nbviewer.ipython.org/github/gmonce/datascience/blob/master/src/1%20-%20Yet%20Another%20Python%20Encoding%20Tutorial.ipynb
 * https://bugs.python.org/issue1571184
