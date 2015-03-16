@@ -13,11 +13,20 @@ This is a repository of notes I have taken while learning Python
 * It seems that matplot uses html color names but I can never rememeber them as I always want to use hex digits: http://www.w3schools.com/html/html_colornames.asp
 
 ##Intersting tutorials to look at
-* Pandas - http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/intro-to-pandas.ipynb
-* http://interactivepython.org/courselib/static/diveintopython3/index.html
-* basic syntax - http://www.codecademy.com/en/tracks/python
-* http://learnpythonthehardway.org/book/
+###General Python
+* CodeAcademy: http://www.codecademy.com/tracks/python
+ * basic syntax - http://www.codecademy.com/en/tracks/python 
+* Udacity: https://www.udacity.com/
+* Interactie Python http://interactivepython.org/courselib/static/diveintopython3/index.html
+* Learn Python: http://www.learnpython.org/en/Welcome
+* Learn Python the Hard Way: http://learnpythonthehardway.org/book/
+* Coursera: https://www.coursera.org/course/pythonlearn
+* Python-Course: http://www.python-course.eu/input.php
 * http://www.mindview.net/Books/Python/ThinkingInPython.html
+
+###Specific Tasks in Python
+* Pandas - http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/intro-to-pandas.ipynb
+* http://www.compileonline.com/execute_python_online.php
 * http://programminghistorian.org/lessons/
 * https://github.com/ehmatthes/intro_programming
 * http://all-geo.org/volcan01010/2012/11/change-coordinates-with-pyproj/
@@ -25,8 +34,6 @@ This is a repository of notes I have taken while learning Python
 * https://joernhees.de/blog/2014/02/25/scientific-python-on-mac-os-x-10-9-with-homebrew/
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
-* https://www.coursera.org/course/pythonlearn
-* http://www.python-course.eu/input.php
 * Working with LEAP Motion controler: https://developer.leapmotion.com/documentation/python/devguide/Intro_Skeleton_API.html
 
 ###Character Encoding
@@ -37,6 +44,22 @@ This is a repository of notes I have taken while learning Python
 * Consistent character width: http://bugs.python.org/issue12568
 * Python returning the wrong length of string when using special characters http://stackoverflow.com/questions/2247205/python-returning-the-wrong-length-of-string-when-using-special-characters
 * Unicode::GCString python https://www.google.com/search?q=Unicode%3A%3AGCString+python&oq=Unicode%3A%3AGCString+python&aqs=chrome..69i57j69i58.4901j0j7&sourceid=chrome&es_sm=91&ie=UTF-8
+
+###Working with Strings
+* General Counting:
+ * http://pymotw.com/2/collections/counter.html
+* http://www.pythonforbeginners.com/basics/string-manipulation-in-python
+* Counting Letters in a String: 
+ * http://codereview.stackexchange.com/questions/27781/counting-letters-in-a-string-python-optimisation
+ * http://stackoverflow.com/questions/2932511/letter-count-on-a-string
+  * Without Spaces: http://stackoverflow.com/questions/18455222/how-to-count-the-number-of-letters-in-a-string-without-the-spaces
+* Word Counts:
+ * http://vasanthexperiments.wordpress.com/2010/10/13/word-count-program-in-python/
+ * http://www.dreamincode.net/forums/topic/265081-counting-words-in-a-txt-file/
+ * http://www.yasyf.com/coding/simple-python-word-frequency-count/
+ * http://www.daniweb.com/software-development/python/code/216495/wordcount-of-a-text-file-python
+ * http://stackoverflow.com/questions/19674336/how-to-write-a-wordcount-program-using-python-without-using-map-reduce
+ * http://stackoverflow.com/questions/21107505/python-word-count-from-a-txt-file-program
 
 ###Recording Keys
 * Key Actions/Keystroke events: http://www.java2s.com/Code/Python/Event/Key-Action.htm
@@ -55,6 +78,12 @@ http://www.continuum.io/blog/conda
 ##Python and Perl
 * http://www.fastcolabs.com/3026446/the-fall-of-perl-the-webs-most-promising-language
 * http://muse.jhu.edu/login?auth=0&type=summary&url=/journals/canadian_journal_of_linguistics/v051/51.1cobb.pdf
+
+###Just Perl
+* http://stackoverflow.com/questions/16678272/perl-script-to-count-words-lines
+* http://perlbrew.pl/Perlbrew-and-Friends.html
+* http://learn.perl.org/tutorials/
+* http://learn.perl.org/
 
 ##Python Modules
 * http://kartograph.org/showcase/animated-symbols/
