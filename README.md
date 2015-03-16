@@ -98,6 +98,7 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * OCR: https://github.com/tmbdev/ocropy
 * Babel: http://babel.pocoo.org/
 * poio: http://media.cidles.eu/poio/
+* FoLiA: https://pypi.python.org/pypi/FoLiA-tools
 
 ##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
