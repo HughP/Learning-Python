@@ -67,7 +67,6 @@ _This is a repository of notes I have taken while learning Python._
 ###Recording Keys
 * Key Actions/Keystroke events: http://www.java2s.com/Code/Python/Event/Key-Action.htm
 * http://www.java2s.com/Code/Python/Event/KeyactionShiftPressedandReleased.htm
-* 
 
 
 ##Not helpful tutorials
