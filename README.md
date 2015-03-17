@@ -101,6 +101,12 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * poio: http://media.cidles.eu/poio/
 * FoLiA: https://pypi.python.org/pypi/FoLiA-tools
 
+###Playing with github
+* https://github.com/copitux/python-github3
+* https://github.com/kadirpekel/hammock
+* http://github3py.readthedocs.org/en/master/api.html
+* https://developer.github.com/libraries/
+
 ##RegEx
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
 * http://www.regexr.com/
