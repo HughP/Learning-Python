@@ -31,6 +31,7 @@ _This is a repository of notes I have taken while learning Python._
 * https://wakari.io/gallery Other iPython notebooks.
 * Other python resources: http://continuum.io/
 * An example of Ethnologue data https://github.com/metasyn/langstats
+* Maps: http://nbviewer.ipython.org/github/pp-mo/iris_example_code/blob/cartopy_scalebar/map_scalebar.ipynb
 
 ####Write to a file.
 * How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
