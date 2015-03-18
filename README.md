@@ -90,6 +90,7 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 
 ##Python Modules
 * Kartograph: http://kartograph.org/showcase/animated-symbols/
+* Cartopy: http://scitools.org.uk/cartopy/
 * Scrappy: http://doc.scrapy.org/en/0.24/intro/tutorial.html
 * Media Goblin: http://mediagoblin.org/
 * OCR: https://github.com/tmbdev/ocropy
