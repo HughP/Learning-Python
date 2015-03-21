@@ -112,3 +112,6 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * http://txt2re.com/index-python.php3?s=on%20some%20day&1
 * http://www.regexr.com/
 * Counting words in a toolbox corpus: http://kiluv.de/irregularexpressions/?cat=10
+
+##Playing with GIS data
+* https://www.e-education.psu.edu/geog485/node/141
