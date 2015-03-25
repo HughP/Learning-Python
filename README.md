@@ -33,6 +33,17 @@ _This is a repository of notes I have taken while learning Python._
 * An example of Ethnologue data https://github.com/metasyn/langstats
 * Maps: http://nbviewer.ipython.org/github/pp-mo/iris_example_code/blob/cartopy_scalebar/map_scalebar.ipynb
 
+ ####copy this over to python
+* http://www.diveintopython.net/xml_processing/parsing_xml.html
+* http://infohost.nmt.edu/tcc/help/pubs/pyparsing/web/index.html
+* http://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb
+* http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
+* http://stackoverflow.com/questions/21149920/pandas-import-multiple-csv-files-into-dataframe-using-a-loop-and-hierarchical-i?rq=1
+* http://pandas.pydata.org/pandas-docs/dev/generated/pandas.DataFrame.html
+* http://stackoverflow.com/questions/20637439/skip-rows-during-csv-import-pandas
+* http://pandas.pydata.org/pandas-docs/stable/index.html
+* http://pandas.pydata.org/pandas-docs/dev/categorical.html
+
 ####Write to a file.
 * How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
 
