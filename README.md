@@ -106,6 +106,7 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * Scrappy: http://doc.scrapy.org/en/0.24/intro/tutorial.html
 * Media Goblin: http://mediagoblin.org/
 * OCR: https://github.com/tmbdev/ocropy
+* DOAP: https://pypi.python.org/pypi/doapfiend/0.3.3
 
 ###Lingusitics and Language Data Specific
 * NLTK: http://www.nltk.org/
