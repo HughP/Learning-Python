@@ -127,3 +127,17 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 
 ##Playing with GIS data
 * https://www.e-education.psu.edu/geog485/node/141
+
+## various links from Chrome
+_These links were collected while trying to do the word count task for keyboard analysis. However, so they are not strictly python / perl but they are usually relating to one of the two._
+http://pypi.python.org/pypi/python-wordpress/0.1.2
+https://github.com/maxcutler/python-wordpress-xmlrpc
+https://github.com/eyeseast/python-wordpress
+http://python-wordpress-xmlrpc.readthedocs.org/en/latest/ref/wordpress.html#wordpressposttype
+http://wordpress.org/extend/plugins/wordcounternet-word-and-character-counter/
+http://wordpress.org/extend/plugins/word-and-character-counter/changelog/
+http://scripts.sil.org/cms/scripts/page.php?item_id=UnicodeCharacterCount
+http://markmaunder.com/2009/10/24/how-to-integrate-php-and-perl-or-any-other-languages-on-apache/
+http://www.perlmonks.org/?node_id=651544
+http://search.cpan.org/~leocharre/WordPress-XMLRPC-1.15/lib/WordPress/XMLRPC.pm
+http://perl.about.com/od/perltutorials/a/perlmysql_3.htm
