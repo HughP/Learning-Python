@@ -32,6 +32,7 @@ _This is a repository of notes I have taken while learning Python._
 * Other python resources: http://continuum.io/
 * An example of Ethnologue data https://github.com/metasyn/langstats
 * Maps: http://nbviewer.ipython.org/github/pp-mo/iris_example_code/blob/cartopy_scalebar/map_scalebar.ipynb
+* Geo Processing: http://www.jianshu.com/p/a710e7656ddb
 
  ####copy this over to python
 * http://www.diveintopython.net/xml_processing/parsing_xml.html
