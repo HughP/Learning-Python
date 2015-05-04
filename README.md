@@ -108,6 +108,7 @@ _I know this is a Python repo, but I have these links from learning about Perl, 
 * Media Goblin: http://mediagoblin.org/
 * OCR: https://github.com/tmbdev/ocropy
 * DOAP: https://pypi.python.org/pypi/doapfiend/0.3.3
+* Stochastic Programing: http://openopt.org/StochasticProgramming
 
 ###Lingusitics and Language Data Specific
 * NLTK: http://www.nltk.org/
