@@ -5,6 +5,7 @@
 3. http://williamjturkel.net/2013/12/01/working-with-bibliographic-apis-using-command-line-tools-in-linux/
 4. http://williamjturkel.net/2013/09/16/simple-xml-parsing-and-graph-visualization-with-command-line-tools-in-linux/
 5. http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
+6. http://datascienceatthecommandline.com/
 
 
 ##Some cool looking utilities for working with text
