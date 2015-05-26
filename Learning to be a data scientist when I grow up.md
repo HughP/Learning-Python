@@ -6,7 +6,7 @@
 4. http://williamjturkel.net/2013/09/16/simple-xml-parsing-and-graph-visualization-with-command-line-tools-in-linux/
 5. http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html
 6. http://datascienceatthecommandline.com/
-
+7. http://codeinthehole.com/writing/csvfilter-a-python-command-line-tool-for-manipulating-csv-data/
 
 ##Some cool looking utilities for working with text
 * http://software.wise-guys.nl/libtextcat/
