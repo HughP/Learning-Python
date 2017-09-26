@@ -19,6 +19,8 @@
  * LRMI
  * Course learning
  * DOAP
+ * Keyboard analysis
+ * Carcassone website
  
 
 ## Specific Packages to learn to use
@@ -42,13 +44,13 @@
     * https://pelson.github.io/tag/xkcd/
     * https://github.com/ipython/xkcd-font/issues/16#issuecomment-296093311
     * https://github.com/ipython/xkcd-font/issues/16#issuecomment-296142075
-   
- ### Linguistics
- * http://zacharski.org/books/python-for-linguists/
-    
-    
   * Hugh Paterson jr.
   * Jeremiah Paterson
   * Hugh Paterson III
+   
+ ### Linguistics
+ * http://zacharski.org/books/python-for-linguists/
  
+ ### Keyboard analysis
+ * https://docs.google.com/document/d/1OQjzy9hySCpEF6TguC4EVKQQfmz5TAOzOOgUvhVHzrs/edit#heading=h.q2l22pbdfdst
  
