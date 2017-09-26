@@ -52,7 +52,7 @@ _This is a repository of notes I have taken while learning Python._
 * http://pandas.pydata.org/pandas-docs/stable/index.html
 * http://pandas.pydata.org/pandas-docs/dev/categorical.html
 
-####W rite to a file.
+#### Write to a file.
 * How to write to a file: https://www.daniweb.com/software-development/python/threads/278729/python-write-new-line-to-file
 
 #### LEAP Motion API
