@@ -9,16 +9,23 @@ _This is a repository of notes I have taken while learning Python._
 * It seems that matplot uses html color names but I can never rememeber them as I always want to use hex digits: http://www.w3schools.com/html/html_colornames.asp
 
 ## Intersting tutorials to look at
-### General Python
+
+### Formal learning enviroments
+* https://www.datacamp.com/courses/intro-to-python-for-data-science
 * CodeAcademy: http://www.codecademy.com/tracks/python
- * basic syntax - http://www.codecademy.com/en/tracks/python 
 * Udacity: https://www.udacity.com/
+* Coursera: https://www.coursera.org/course/pythonlearn
+
+### General Python
+
+ * basic syntax - http://www.codecademy.com/en/tracks/python 
+
 * Interactie Python http://interactivepython.org/courselib/static/diveintopython3/index.html
 * Learn Python: http://www.learnpython.org/en/Welcome
 * Learn Python the Hard Way: http://learnpythonthehardway.org/book/
 * Coursera: https://www.coursera.org/course/pythonlearn
 * Python-Course: http://www.python-course.eu/input.php
-* http://www.mindview.net/Books/Python/ThinkingInPython.html
+* Thinking in Python: http://www.mindview.net/Books/Python/ThinkingInPython.html
 
 ### Specific Tasks in Python
 * Pandas - http://nbviewer.ipython.org/github/pybokeh/ipython_notebooks/blob/master/pandas/intro-to-pandas.ipynb
