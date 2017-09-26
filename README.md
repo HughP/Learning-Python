@@ -19,7 +19,7 @@ _This is a repository of notes I have taken while learning Python._
 ### General Python
 
  * basic syntax - http://www.codecademy.com/en/tracks/python 
-
+* http://www.e-booksdirectory.com/listing.php?category=265
 * Interactie Python http://interactivepython.org/courselib/static/diveintopython3/index.html
 * Learn Python: http://www.learnpython.org/en/Welcome
 * Learn Python the Hard Way: http://learnpythonthehardway.org/book/
