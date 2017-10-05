@@ -5,6 +5,11 @@
 ## General familiarity with language syntax and constructs
 
 ### Three free formal courses on basic tasks in Python
+My learning course will include:
+* https://github.com/HughP/WhirlwindTourOfPython
+* https://github.com/HughP/PythonDataScienceHandbook
+* datacamp: 
+
 * udacity:
  * https://www.udacity.com/course/programming-foundations-with-python--ud036
  * https://www.udacity.com/course/introduction-to-python--ud1110
@@ -27,6 +32,20 @@
 
 ### Cartographic tools
 * Pygal : Cartographic display http://pygal.org/en/stable/
+ * pygal has limited support for maps. It will take some work to transpose maps for Mexico, Nigeria, USA, and Nepal into pygal. Pygal has the benefit of being activly maintained.
+* Kartograph
+* **Basemap** as part of matplotlib:
+ * matplotlib with maps: https://matplotlib.org/basemap/users/examples.html
+ * matplotlib with heatmaps: https://pythonspot.com/en/generate-heatmap-in-matplotlib/
+  * not sure if this works in cartographic display
+* Pylons: gheat: nohttp://folium.readthedocs.io/en/latest/t sure if it works without pylons or how to intergrate it: https://github.com/bigkraig/pylons_gheat
+* Folium: http://folium.readthedocs.io/en/latest/
+  Folium makes it easy to visualize data that’s been manipulated in Python on an interactive Leaflet map. It enables both the binding of data to a map for choropleth visualizations as well as passing Vincent/Vega visualizations as markers on the map.
+
+The library has a number of built-in tilesets from OpenStreetMap, Mapbox, and Stamen, and supports custom tilesets with Mapbox or Cloudmade API keys. Folium supports both GeoJSON and TopoJSON overlays, as well as the binding of data to those overlays to create choropleth maps with color-brewer color schemes.
+
+* **Tutorials** 
+ * 
 
 ### Charts
 * Plotly
