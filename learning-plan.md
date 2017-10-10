@@ -49,6 +49,7 @@ My learning course will include:
    * https://stevendkay.wordpress.com/2010/01/14/creating-a-pinboard-map-of-geotagged-photos-in-a-flickr-pool/
     * this code can be used to plot the locations of survey collections on a map
 * https://alcidanalytics.com/p/geographic-heatmap-in-python
+* https://github.com/geopy/geopy
 
 Nigeria Elevation maps:
 * https://stevendkay.wordpress.com/2009/09/05/beginning-digital-elevation-model-work-with-python/
@@ -90,3 +91,24 @@ Nigeria Elevation maps:
  ### Network Graphs
  * http://igraph.org/python/doc/tutorial/tutorial.html
  
+ 
+ Let's Create some data
+
+### Resources for the pintrist API
+* https://github.com/ironchief/python-pinterest
+* https://pypi.python.org/pypi/pinterest-pinata/1.1.5
+* https://github.com/creotiv/python-pinterest-api
+* https://github.com/richid/python-pinterest
+* https://github.com/richid/python-pinterest
+
+
+
+### Resources for the Worldcat API
+* http://journal.code4lib.org/articles/9863
+* https://hangingtogether.org/?p=500
+* https://www.oclc.org/developer/develop/web-services/worldcat-metadata-api.en.html
+* https://gist.github.com/edsu/4730261
+* https://github.com/anarchivist/worldcat
+* https://www.oclc.org/developer/gallery/worldcat-python-module.en.html
+* https://pypi.python.org/pypi/worldcat/
+
